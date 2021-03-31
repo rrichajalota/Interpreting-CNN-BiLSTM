@@ -8,4 +8,4 @@ The other two jupyter notebooks contain code for CNN and BiLSTM interpretation u
 Since Captum doesn't support LRP, a CNN classifier was trained in Keras and using, the [iNNvestigate](https://github.com/albermax/innvestigate) framework, a CNN model trained for different number of epochs was analyzed.
 
 Note:
-All the Jupyter notebooks can be run independently on Google collab. For my experiments, I used Google Collab and hence, the libaries that are not installed on the collab server will be download on the running the notebook there.
+All the Jupyter notebooks can be run independently on Google collab. For my experiments, I used Google Collab and hence, the libraries that are not installed on the collab server will be download on the running the notebook there.
